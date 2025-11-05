@@ -2,7 +2,7 @@
 ### NAME: HARISH G 
 ### ROLL NO: 212222243001
 ### DEPARTMENT : AIML
-### DATE: 01-11-2025
+
 
 ### AIM
 interface the DHT11 digital temperature and humidity sensor with a Raspberry Pi development board and display real-time data.
